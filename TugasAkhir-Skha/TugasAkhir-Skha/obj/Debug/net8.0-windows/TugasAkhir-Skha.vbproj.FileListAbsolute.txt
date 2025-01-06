@@ -1,0 +1,17 @@
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir_Skha.Form1.resources
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir_Skha.Resources.resources
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.vbproj.GenerateResource.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.AssemblyInfo.vb
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\bin\Debug\net8.0-windows\TugasAkhir-Skha.exe
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\bin\Debug\net8.0-windows\TugasAkhir-Skha.deps.json
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\bin\Debug\net8.0-windows\TugasAkhir-Skha.runtimeconfig.json
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\bin\Debug\net8.0-windows\TugasAkhir-Skha.dll
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\bin\Debug\net8.0-windows\TugasAkhir-Skha.pdb
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.dll
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\refint\TugasAkhir-Skha.dll
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.pdb
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\TugasAkhir-Skha.genruntimeconfig.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-Skha\TugasAkhir-Skha\obj\Debug\net8.0-windows\ref\TugasAkhir-Skha.dll
